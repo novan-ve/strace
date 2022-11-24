@@ -1,4 +1,5 @@
 # Strace
+
 Reimplementation of the strace command in C.
 
 ```bash
